@@ -1,0 +1,59 @@
+2020-12-16 12:46:15,220 : INFO : test_e2e : getting all the card titles
+2020-12-16 12:46:15,715 : INFO : test_e2e : entering country as ind
+2020-12-16 12:46:21,335 : INFO : test_e2e : text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-12-16 12:51:50,555 : INFO : test_e2e : getting all the card titles
+2020-12-16 12:51:51,082 : INFO : test_e2e : entering country as ind
+2020-12-16 12:51:56,841 : INFO : test_e2e : text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-12-16 12:52:04,509 : INFO : test_formsubmission : first name isRoshan
+2020-12-16 12:52:05,564 : INFO : test_formsubmission : first name ismaddy
+2020-12-16 12:52:05,564 : INFO : test_formsubmission : first name ismaddy
+2020-12-16 13:10:47,275 : INFO : test_e2e : getting all the card titles
+2020-12-16 13:10:47,818 : INFO : test_e2e : entering country as ind
+2020-12-16 13:10:53,564 : INFO : test_e2e : text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-12-16 13:13:55,719 : INFO : test_e2e : getting all the card titles
+2020-12-16 13:13:56,217 : INFO : test_e2e : entering country as ind
+2020-12-16 13:14:02,056 : INFO : test_e2e : text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-12-16 13:14:09,708 : INFO : test_formsubmission : first name isRoshan
+2020-12-16 13:14:10,687 : INFO : test_formsubmission : first name ismaddy
+2020-12-16 13:14:10,687 : INFO : test_formsubmission : first name ismaddy
+2020-12-17 11:51:17,672 : INFO : test_formsubmission : first name isroshan
+2020-12-17 11:52:28,417 : INFO : test_formsubmission : first name isroshan
+2020-12-17 11:53:24,811 : INFO : test_formsubmission : first name isroshan
+2020-12-17 11:56:31,957 : INFO : test_formsubmission : first name issc
+2021-01-12 12:48:57,671 : INFO : test_e2e : getting all the card titles
+2021-01-12 12:48:58,168 : INFO : test_e2e : entering country as ind
+2021-01-12 12:49:03,856 : INFO : test_e2e : text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-01-12 12:49:10,748 : INFO : test_formsubmission : first name isroshan
+2021-01-12 13:02:40,231 : INFO : test_e2e : getting all the card titles
+2021-01-12 13:02:40,798 : INFO : test_e2e : entering country as ind
+2021-01-12 13:02:46,799 : INFO : test_e2e : text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-01-12 13:02:53,661 : INFO : test_formsubmission : first name isroshan
+2021-01-12 13:03:16,896 : INFO : test_e2e : getting all the card titles
+2021-01-12 13:03:17,462 : INFO : test_e2e : entering country as ind
+2021-01-12 13:03:23,235 : INFO : test_e2e : text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-01-12 13:03:30,307 : INFO : test_formsubmission : first name isroshan
+2021-01-12 13:04:39,293 : INFO : test_e2e : getting all the card titles
+2021-01-12 13:04:39,724 : INFO : test_e2e : entering country as ind
+2021-01-12 13:04:45,482 : INFO : test_e2e : text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-01-12 13:04:52,187 : INFO : test_formsubmission : first name isroshan
+2021-01-12 13:11:44,504 : INFO : test_formsubmission : first name isroshan
+2021-01-12 13:13:08,980 : INFO : test_formsubmission : first name isroshan
+2021-01-12 13:13:54,563 : INFO : test_formsubmission : first name isroshan
+2021-01-12 13:17:37,413 : INFO : test_formsubmission : first name isroshan
+2021-01-12 13:18:24,912 : INFO : test_formsubmission : first name isroshan
+2021-01-12 13:25:27,179 : INFO : test_formsubmission : first name isroshan
+2021-01-12 13:25:56,123 : INFO : test_formsubmission : first name isroshan
+2021-01-12 13:45:29,776 : INFO : test_formsubmission : first name isroshan
+2021-01-12 13:46:06,001 : INFO : test_e2e : getting all the card titles
+2021-01-12 13:46:06,501 : INFO : test_e2e : entering country as ind
+2021-01-12 13:46:12,295 : INFO : test_e2e : text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-01-12 13:46:19,064 : INFO : test_formsubmission : first name isroshan
